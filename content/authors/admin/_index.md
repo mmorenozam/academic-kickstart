@@ -44,7 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:mmorenozambrano@gmail.com  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mauricio-moreno-zambrano-02810a3a/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/psignificant
