@@ -10,30 +10,31 @@
 # - Equal contribution
 # - Equal contribution
 authors:
+- Roberto Megias-Perez
 - admin
-- Sergio Grimbs
-- Matthias S. Ullrich
-- Marc-Thorsten Hütt
-date: "2018-10-01T00:00:00Z"
+- Britta Behrends
+- Marcello Corno
+- Nikolai Kuhnert
+date: "2020-02-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Royal Society Open Science, 5* (10)'
+publication: '*Food Reserach International, 128*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-10-17T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 
 #tags:
 # - Cocoa
-title: A mathematical model of cocoa bean fermentation
-url_code: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.321d33v"
-url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.321d33v"
-url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rsos.180964
+title: "Monitoring the changes in low molecular weight carbohydrates in cocoa beans during spontaneous fementation: A chemometric and kinetic approach"
+url_code: ""
+url_dataset: ""
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0963996919307513
 url_poster: ""
 url_project: ""
 url_slides: ""

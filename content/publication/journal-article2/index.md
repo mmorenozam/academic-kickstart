@@ -10,30 +10,32 @@
 # - Equal contribution
 # - Equal contribution
 authors:
+- F. J. Flores
+- S. M. Marek
+- J. A. Anderson
+- T. K. Mitchell
 - admin
-- Sergio Grimbs
-- Matthias S. Ullrich
-- Marc-Thorsten Hütt
-date: "2018-10-01T00:00:00Z"
+- N. R. Walker
+date: "2017-10-10T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Royal Society Open Science, 5* (10)'
+publication: '*International Turfgrass Society Research Journal 13* (1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-10-17T00:00:00Z"
+publishDate: "2017-10-19T00:00:00Z"
 
 #tags:
 # - Cocoa
-title: A mathematical model of cocoa bean fermentation
-url_code: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.321d33v"
-url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.321d33v"
-url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rsos.180964
+title: "Reactive Oxygen Species Production and Alternative Hosts of Spring Dead Spot-Causing Fungi"
+url_code: ""
+url_dataset: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.2134/itsrj2016.06.0480
 url_poster: ""
 url_project: ""
 url_slides: ""
