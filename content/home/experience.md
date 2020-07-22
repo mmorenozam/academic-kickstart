@@ -59,7 +59,7 @@ of Environmental Statistics proposed by United Nations. """
   location = "Quito - Ecuador"
   date_start = "2011-03-01"
   date_end = "2012-11-01"
-  description = """ Taught chemistry to seniors' class.  """
+  description = """ Taught general chemistry to seniors' class.  """
 
 [[experience]]
   title = "Technical Assistant"
