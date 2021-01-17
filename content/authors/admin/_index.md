@@ -75,4 +75,4 @@ user_groups:
 
 Hi, welcome to my personal webpage! 
 
-My name is Mauricio. I am a Statistician currently doing my PhD at Jacobs University Bremen. Here you will find my cv-ish as well as projects that I am working / have worked in. Also, I'll be posting personal opinions regarding a wide range of topics from politics to science in both, my native language Spanish and English.
+My name is Mauricio. I am a Statistician currently doing my PhD at Jacobs University Bremen. Here you will find a summary of my CV and projects I have worked/currently working in.
