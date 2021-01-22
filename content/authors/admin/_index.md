@@ -22,8 +22,10 @@ bio: Statistician
 
 interests:
 - Bayesian Statistics
+- Kinetic Modelling
+- Clinical studies
+- Environmental Statistics
 - Data Science
-- Education Research
 
 education:
   courses:

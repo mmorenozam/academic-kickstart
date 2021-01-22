@@ -1,0 +1,19 @@
+---
+title: "COMETA (II)"
+date: '2021-01-22'
+summary: "Kinetic changes in carbohydrates in cocoa beans during fermentation"
+tags: ["cocoa","glmm"]
+image: 
+  caption: ''
+  focal_point: Smart
+  preview_only: no
+---
+
+
+The COMETA (COcoa METAbolomics) project is an ongoing effort aimed to characterize taste, aroma and flavor compounds in cocoa beans. It is driven by Jacobs University Bremen with funding from Barry Callebaut <a href="http://mullrich.user.jacobs-university.de/cocoa-metabolomics/" target="_blank">(see more)</a>.
+
+My role within COMETA started in 2016 as a PhD student. Besides my main research, I collaborated sometimes with experimentalists within the group either conducting statistical analyses or serving as statistical consultant. Among those little projects, one resulted in a direct collaboration that resulted in a co-authorship of a study regarding changes of low molecular weight carbohydrates.
+
+In this research, I conducted Generalized Linear Mixed Models (GLMM) to describe different kinetics of these carbohydrates.
+
+If you are interested in having a deeper look into this study, you can check the <a href="https://doi.org/10.1016/j.foodres.2019.108865" target="_blank">paper</a> that resulted from this collaboration.
