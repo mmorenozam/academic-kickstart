@@ -2,7 +2,7 @@
 title: StanCon 2018 - Poster presentation
 author: ''
 date: '2018-08-29'
-slug: talk2
+slug: stan18
 categories: []
 tags: []
 event: ~
