@@ -1,8 +1,8 @@
 ---
-title: Dresden Summer School in Systems Biology 2016
+title: Dresden Summer School in Systems Biology 2016 - Attendee
 author: ''
 date: '2016-07-23'
-slug: talk2
+slug: dresden
 categories: []
 tags: []
 event: ~
@@ -38,5 +38,3 @@ Location: Dresden, Germany
 Focus on: Spatiotemporal modelling and simulation of biological systems.
 
 The school consisted of 18 hours of lectures, 5 hours of scientific talks, and 34 hours of tutored hands-on training in computational methods for spatiotemporal modelling and simulation of biological systems. The lectures covered techniques for modelling dynamics in space and time and for simulating the resulting models in the computer. The phenomenca considered included biochemical reactions, diffusion, pattern formation and flows. The practical tutorials implemented simulations of the PAR system of cell polarity establishment in *C. elegans* eggs, covering all taught concepts. 15 participants from 11 countries were selected based on their CV and letter of motivation. They worked in multi-disciplinary teams of 3 persons and each team gave 3 intermidiate and one final presentation.
-
-

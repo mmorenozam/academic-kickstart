@@ -1,8 +1,8 @@
 ---
-title: StanCon 2018 - Poster presentation
+title: StanCon 2019 - Talk
 author: ''
-date: '2018-08-29'
-slug: talk2
+date: '2019-08-20'
+slug: stan19
 categories: []
 tags: []
 event: ~
@@ -16,7 +16,7 @@ address:
   country: ~
 summary: ~
 abstract: ~
-date_end: '2018-08-31'
+date_end: '2019-08-23'
 all_day: yes
 publishDate: '2021-01-26T02:02:31+01:00'
 authors: []
@@ -33,7 +33,8 @@ slides: ''
 projects: []
 ---
 
+Stan Conference 2019 - Cambridge, United Kingdom
 
+Title: Modelling cocoa bean fermentation processes
 
-<p>Stan Conference 2018 - Helsinki, Finland</p>
-<p>Title: Kinetic modelling of cocoa bean fermentation: An application of Bayesian parameter estimation using RStan</p>
+Slides and notebook of this talk available <a href="https://github.com/mmorenozam/stan2019" target="_blank">here</a>.
