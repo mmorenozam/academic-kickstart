@@ -1,0 +1,38 @@
+---
+title: eRum 2018 - Poster presentation
+author: ''
+date: '2018-05-14'
+slug: talk1
+categories: []
+tags: []
+event: ~
+event_url: ~
+location: ~
+address:
+  street: ~
+  city: Budapest
+  region: ~
+  postcode: ~
+  country: Hungary
+summary: ~
+abstract: ~ 
+date_end: '2018-05-16'
+all_day: yes
+publishDate: '2021-01-26T01:26:53+01:00'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+url_slides: ~
+url_code: ~
+url_pdf: ~
+url_video: ~
+slides: ''
+projects: []
+---
+
+European R Users Meeting 2018 - Budapest, Hungary
+
+Title: Mathematical modelling of cocoa bean fermentation using a Bayesian framework 
