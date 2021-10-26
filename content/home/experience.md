@@ -18,12 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PostDoc and Statistical Counselor"
+  company = "Research Institute for Farm Animal Biology (FBN)"
+  company_url = "https://www.fbn-dummerstorf.de/"
+  location = "Dummerstorf - Germany"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """ Biostatistician at the Institute of Genomics and Biometrics of the FBN """
+  #Responsibilities include:
+  
+  #* Assist Researchers in designing experiments and analyzing data.
+  #* Currently in look for ideas for my own line of research in farm animal biology.
+  #"""
+
+[[experience]]
   title = "Resident Associate"
   company = "Jacobs University Bremen"
   company_url = "https://www.jacobs-university.de/"
   location = "Bremen - Germany"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """ Organizing social events and responsible for the well-being of undergrad students. """
   #Responsibilities include:
   
@@ -37,7 +51,7 @@ date_format = "Jan 2006"
   company_url = "https://www.jacobs-university.de/"
   location = "Bremen - Germany"
   date_start = "2016-02-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """ Modelling and developing mathematical models for cocoa bean fermentation by means of
 linear and Bayesian optimization techniques applied on currently available kinetic profiles. """
 

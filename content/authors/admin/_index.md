@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD in Bioinformatics
 
 # Organizations/Affiliations
 organizations:
-- name: Jacobs University Bremen
+- name: Research Institute for Farm Animal Biology (FBN)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Statistician
+bio: Biostatistician
 
 interests:
 - Bayesian Statistics
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD (c) in Computational Systems Biology
+  - course: PhD in Bioinformatics
     institution: Jacobs University Bremen - DE
     year: 2021
   - course: MSc in Statistics
@@ -77,4 +77,4 @@ user_groups:
 
 Hi, welcome to my personal webpage! 
 
-My name is Mauricio. I am a Statistician currently doing my PhD at Jacobs University Bremen. Here you will find a summary of my CV and projects I have worked/currently working in.
+My name is Mauricio. I am a Biostatistician currently working as Statistical Counselor at the Research Institute for Farm Animal Biology - Dummerstorf. Besides that responsibility, I am currently jumping into the world of farm animal biology in order to come up with my own line of research. Here you will find a (non-updated) summary of my CV and projects I have worked/currently working in.
